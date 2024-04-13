@@ -1,0 +1,6 @@
+GJK.obj
+GJK_initialize.obj
+GJK_terminate.obj
+rtGetInf.obj
+rtGetNaN.obj
+rt_nonfinite.obj
